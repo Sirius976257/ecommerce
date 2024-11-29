@@ -1,0 +1,72 @@
+.gazluu0 {
+  width: 1440px;
+
+  height: 300vh;
+}
+.gazluu {
+  width: 1440px;
+  height: 68px;
+  background-color: #000000;
+  position: sticky;
+  top: 0;
+}
+.gazluu1 {
+  width: 1440px;
+  height: 2508px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gazluu2 {
+  width: 1040px;
+  height: 2508px;
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: column;
+}
+.zuragnuud {
+  width: 1040px;
+  height: 400px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+}
+.zuragbain {
+  border-radius: 20px;
+}
+.gazluu3 {
+  display: flex;
+  gap: 4px;
+}
+.zuragbain1 {
+}
+.gazluu4 {
+  width: 508px;
+  height: 1191px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.gazluu5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.undsen {
+  display: flex;
+  gap: 22px;
+  margin-top: 30px;
+}
+.hover-box {
+  transition: transform 0.2s ease-in;
+}
+.hover-box:hover {
+  transform: translateY(-15px);
+}
+.gazluu {
+  box-sizing: border-box;
+  padding: 15px;
+}
